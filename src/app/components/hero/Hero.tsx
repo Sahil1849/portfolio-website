@@ -39,9 +39,9 @@ export default function HeroSection() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
-            className="w-full lg:w-1/2 lg:pl-12"
+            className="w-full lg:w-1/2 "
           >
-            <div className="space-y-6 max-w-2xl">
+            <div className="space-y-6 max-w-3xl">
               <motion.h2
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
