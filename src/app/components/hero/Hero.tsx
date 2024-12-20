@@ -48,7 +48,7 @@ export default function HeroSection() {
                 transition={{ duration: 0.5, delay: 0.3 }}
                 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white"
               >
-                HEY, I'M <span className="text-purple">SAHIL BANKAR</span>
+                HEY, I&apos;M <span className="text-purple">SAHIL BANKAR</span>
               </motion.h2>
 
               <div className="text-xl text-gray-800 dark:text-gray-200">
