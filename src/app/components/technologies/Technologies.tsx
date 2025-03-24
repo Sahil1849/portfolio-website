@@ -1,7 +1,7 @@
 "use client";
 import { motion } from "framer-motion";
 import { Code2, Globe, Database, Settings } from "lucide-react";
-import { FaReact, FaNodeJs, FaJava, FaGithub, FaDocker, FaDatabase, FaPython } from "react-icons/fa";
+import { FaReact, FaNodeJs, FaJava, FaGithub, FaDocker, FaPython } from "react-icons/fa";
 import { SiNextdotjs, SiJavascript, SiTypescript, SiTailwindcss, SiExpress, SiPostgresql, SiMongodb, SiMysql, SiPrisma, SiJira, SiPostman, SiFirebase, SiRedis } from "react-icons/si";
 
 const techStackData = [
