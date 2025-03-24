@@ -5,6 +5,15 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
+    title: "Ai-SmartChat Application",
+    description:
+      "Ai-SmartChat lets users create chat groups, collaborate in real time, and interact with an AI assistant using @ai.",
+    tech: ["React-Vite", "Express", "Tailwind CSS", "MongoDB"],
+    images: ["/Project7.1.png", "/Project7.2.png", "/Project7.3.png", "/Project7.4.png"],
+    github: "https://github.com/Sahil1849/aiSmartChat-frontend",
+    live: "https://ai-smart-chat-frontend.vercel.app/",
+  },
+  {
     title: "The Wild Oasis (Admin-App)",
     description:
       "The Wild Oasis (Admin App) is a comprehensive admin solution crafted to simplify cabin stay management for hotel staff.",
@@ -44,15 +53,6 @@ const projects = [
     images: ["/Project3.png", "/Project3.2.png"],
     github: "https://github.com/Sahil1849/classy-weather",
     live: "https://online-pizza-store.vercel.app/",
-  },
-  {
-    title: "Weather App",
-    description:
-      "Classy-Weather App is a intuitive weather forecasting application that provides real-time weather updates and forecasts of locations.",
-    tech: ["React", "Javascript"],
-    images: ["/Project4.png"],
-    github: "https://github.com/Sahil1849/classy-weather",
-    live: "https://classy-weather-gamma.vercel.app/",
   },
   {
     title: "The Quiz App",

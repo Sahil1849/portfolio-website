@@ -6,14 +6,14 @@ const experiences = [
   {
     title: "Software Engineer",
     company: "Vionsys IT Solutions India Pvt. Ltd",
-    period: "July 2024 - Present",
+    period: "April 2024 - Present",
     description: "Developed and maintained full-stack applications.",
   },
   {
-    title: "Junior Developer",
-    company: "Vionsys IT Solutions India Pvt. Ltd",
-    period: "April 2024 - July 2024",
-    description: "Worked on front-end development using React and TypeScript.",
+    title: "Analyst",
+    company: "eClerx Services Ltd",
+    period: "April 2023 - April 2024",
+    description: "Worked on full-stack support, resolving frontend and backend issues to ensure seamless application performance.",
   },
 ];
 

@@ -56,8 +56,8 @@ const Counter: React.FC = () => {
     {
       id: 1,
       icon: <GiSkills size={35} />, // Corrected icon usage
-      count: 9,
-      heading: "Months of Experience",
+      count: 2,
+      heading: "Years of Experience",
     },
     {
       id: 2,

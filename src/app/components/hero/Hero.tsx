@@ -23,7 +23,7 @@ export default function HeroSection() {
             transition={{ duration: 0.8 }}
             className="w-full lg:w-1/2 mb-8 lg:mb-0"
           >
-            <div className="relative">
+            <div className="relative md:px-6">
               <Image
                 src="/Hero.png"
                 alt="Sahil Bankar"
@@ -39,7 +39,7 @@ export default function HeroSection() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
-            className="w-full lg:w-1/2 "
+            className="w-full lg:w-1/2 lg:pl-12 "
           >
             <div className="space-y-6 max-w-3xl">
               <motion.h2
